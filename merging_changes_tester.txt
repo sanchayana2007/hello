@@ -1,2 +1,4 @@
 1. first Created  from the master
 2. Section added on the 2nd commit after the master
+3. While working on the master i got this issue #1 whose fix I am providing i nthe issue 1 baranch which was created to get 
+the fix.
